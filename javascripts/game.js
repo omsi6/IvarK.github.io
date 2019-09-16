@@ -16,7 +16,7 @@ var TIER_NAMES = [ null, "first", "second", "third", "fourth", "fifth", "sixth",
 var DISPLAY_NAMES = [ null, "First", "Second", "Third", "Fourth", "Fifth", "Sixth", "Seventh", "Eighth" ];
 var forceHardReset = false;
 var player = {
-    money: new Decimal(10),
+    money: new Decimal(9),
     tickSpeedCost: new Decimal(1000),
     tickspeed: new Decimal(1000),
     firstCost: new Decimal(10),
